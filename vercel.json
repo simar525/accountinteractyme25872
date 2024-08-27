@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://account.interacty.me/$1"
+ }
+  ]
+}
